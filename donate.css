@@ -32,4 +32,41 @@
 
 /* tis is the takar side */
 
+.pad {
+    padding: 50px;
+}
 
+.taka {
+    text-align: center;
+    margin-bottom: 200px;
+}
+
+.taka-am {
+    display: flex;
+    text-align: center;
+}
+
+.title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 54px;
+    
+}
+.re-title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 54px;
+    
+}
+
+.amaunt {
+    font-size: 30px;
+}
+
+.aria {
+ size: 100px;
+} 
