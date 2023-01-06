@@ -1,0 +1,35 @@
+/* this is the top side */
+.bg-img{
+    background-image: url('images/donation0.jpg');
+    color: rgb(23, 137, 155);
+    
+    background-size: 100%;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 150px;
+    
+}
+.b {
+    font-size: 200px;
+    color: aqua;
+}
+.pp{
+    color: rgb(68, 219, 211);
+    font-size: 50px;
+}
+
+.btn{
+    background-color: #FF5959;
+    font-size: 28px;
+    margin-top: 140px;
+    width: 200px;
+    height: 70px;
+    margin-bottom: 55px;
+}
+.oo{
+    padding: 100px;
+}
+
+/* tis is the takar side */
+
+
