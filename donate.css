@@ -34,11 +34,12 @@
 
 .pad {
     padding: 50px;
+    
 }
 
 .taka {
     text-align: center;
-    margin-bottom: 200px;
+    
 }
 
 .taka-am {
@@ -70,3 +71,52 @@
 .aria {
  size: 100px;
 } 
+
+.hh {
+    margin: 10px;
+}
+
+/* this is other side */
+
+.plan {
+    text-align: center;
+    font-size: 50px;
+    padding: 200px;
+}
+
+/* this is box side */
+
+.fff {
+    display: flex;
+}
+
+.ttt{
+    padding: 50px;
+    margin: 80px;
+    background-color: aquamarine;
+}
+
+/* this is the side of donetion */
+
+
+
+.photo {
+   
+display: flex;
+   text-align: center;
+   margin-bottom: 100px;
+}
+
+.re-photos {
+   font-size: 30px;
+
+   margin-top: 100px;
+   padding: 30px;
+}
+.nn {
+    font-size: 20px;
+}
+
+.photor {
+    display: flex;
+}
